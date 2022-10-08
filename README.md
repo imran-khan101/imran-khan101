@@ -1,8 +1,12 @@
 <h1 align="center">{ Hello World!👋, I'm Imran Khan }</h1>
 <h3 align="center">{ A passionate Full-Stack developer from Bangladesh }</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imran-khan101&label=Profile%20views&color=0e75b6&style=flat" alt="imran-khan101" /> </p>
+[![Linkedin Badge](https://img.shields.io/badge/-ImranKhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imran-khan-101k)](https://www.linkedin.com/in/imran-khan-101k)
+[![Instagram Badge](https://img.shields.io/badge/-imran_khan-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/imran_khan._/)](https://instagram.com/imran_khan._)
+[![Gmail Badge](https://img.shields.io/badge/-imran311877@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imran311877@gmail.com)](mailto:imran311877@gmail.com)
 
+<!-- [![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
+[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi) -->
 <p align="left">
 </p>
 
@@ -68,8 +72,7 @@ These are some of the major technologies that I use or have worked on in the pas
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=imran-khan101&theme=radical&show_icons=true&locale=en&count_private=true" alt="imran-khan101" />
 
 <br>
-<!-- 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imran-khan101&theme=radical&show_icons=true&layout=compact&count_private=true" alt="imran-khan101" /> -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imran-khan101&label=Profile%20views&color=0e75b6&style=flat" alt="imran-khan101" /> </p>
 
 
