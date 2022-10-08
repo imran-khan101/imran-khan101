@@ -5,38 +5,66 @@
 
 <p align="left">
 </p>
+
 ## Skill Set :muscle:
 
 These are some of the major technologies that I use or have worked on in the past:
 
 **Programming Languages**
+<br>
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
-|--|--|--|
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
-**Libraries and Frameworks**
+**Frontend Technologies**
+<br>
 
-<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">|<img title="Keras" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png">|<img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">|<img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
-|--|--|--|--|--|
-<img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">|<img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">|<img title="jQuery" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="GrahpQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png">|<img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)
+
+**Backend Technologies and Frameworks**
+<br>
+
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+
+**Databases**
+<br>
+
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 **Cloud**
 
-<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Heroku" alt="Heroku" width="40px" src="https://img.icons8.com/color/48/000000/heroku.png">
-|--|--|
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
-**Databases**
 
-<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="ElasticSearch" alt="ElasticSearch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/elasticsearch/elasticsearch.png"> <br>
-|--|--|--|
 
-**Tools**
+**Version Control**
 
-<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="ZSH" alt="ZSH" width="40px" src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
-|--|--|--|--|--|
-<br>
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-## Some of my stats
+
+<!-- ## ⚡ Technologies -->
+
+## My stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=imran-khan101&theme=radical&show_icons=true&locale=en&count_private=true" alt="imran-khan101" />
 
 <br>
