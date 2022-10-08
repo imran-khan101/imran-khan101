@@ -26,7 +26,7 @@ These are some of the major technologies that I use or have worked on in the pas
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
-**:atom: Frontend Technologies**
+**:electron: Frontend Technologies**
 <br>
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -71,7 +71,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <!-- ## ⚡ Technologies -->
 
-## My stats
+## My stats :chart_with_upwards_trend:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=imran-khan101&theme=radical&show_icons=true&locale=en&count_private=true" alt="imran-khan101" />
 
 <br>
