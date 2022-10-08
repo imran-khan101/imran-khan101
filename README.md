@@ -63,7 +63,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 
  
-**<img align="center" src="https://github.com/imran-khan101/imran-khan101/blob/main/images/git.png" height="15px" /> Version Control**
+**<img align="center" src="https://github.com/imran-khan101/imran-khan101/blob/main/images/git.png" height="15px" />  Version Control**
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
