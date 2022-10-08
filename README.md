@@ -14,4 +14,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imran-khan101&show_icons=true&locale=en&layout=compact" alt="imran-khan101" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imran-khan101&show_icons=true&locale=en" alt="imran-khan101" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imran-khan101&show_icons=true&locale=en&count_private=true" alt="imran-khan101" /></p>
