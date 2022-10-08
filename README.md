@@ -1,10 +1,13 @@
 <h1 align="center">{ Hello World!👋, I'm Imran Khan }</h1>
 <h3 align="center">{ A passionate Full-Stack developer from Bangladesh }</h3>
+<br>
+<div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-ImranKhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imran-khan-101k)](https://www.linkedin.com/in/imran-khan-101k)
 [![Instagram Badge](https://img.shields.io/badge/-imran_khan-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/imran_khan._/)](https://instagram.com/imran_khan._)
 [![Gmail Badge](https://img.shields.io/badge/-imran311877@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imran311877@gmail.com)](mailto:imran311877@gmail.com)
 
+</div>
 <!-- [![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
 [![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi) -->
 <p align="left">
@@ -14,7 +17,7 @@
 
 These are some of the major technologies that I use or have worked on in the past:
 
-**Programming Languages**
+**:hammer_and_wrench: Programming Languages**
 <br>
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
@@ -23,7 +26,7 @@ These are some of the major technologies that I use or have worked on in the pas
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
-**Frontend Technologies**
+**:atom: Frontend Technologies**
 <br>
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -34,7 +37,7 @@ These are some of the major technologies that I use or have worked on in the pas
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)
 
-**Backend Technologies and Frameworks**
+**:electric_plug: Backend Technologies and Frameworks**
 <br>
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
@@ -42,7 +45,7 @@ These are some of the major technologies that I use or have worked on in the pas
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
-**Databases**
+**:file_cabinet: Databases**
 <br>
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
@@ -50,7 +53,7 @@ These are some of the major technologies that I use or have worked on in the pas
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-**Cloud**
+**:cloud: Cloud**
 
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
