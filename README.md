@@ -73,7 +73,7 @@ These are some of the major technologies that I use or have worked on in the pas
 <!-- ## ⚡ Technologies -->
 
 ## My stats :chart_with_upwards_trend:
-<img align="center" src="https://github-readme-stats-jbakg8c67-imran-khan101.vercel.app/api?username=imran-khan101&theme=merko&show_icons=true&locale=en&count_private=true" alt="imran-khan101" />
+<img align="center" src="https://github-readme-stats-git-master-imran-khan101.vercel.app/api?username=imran-khan101&theme=radical&show_icons=true&locale=en&count_private=true" alt="imran-khan101" />
 
 <br>
 
